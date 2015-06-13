@@ -1,5 +1,6 @@
 /**
  * Created by kim on 6/13/2015.
+ * my first commit
  */
 public class SumCalculator {
 
